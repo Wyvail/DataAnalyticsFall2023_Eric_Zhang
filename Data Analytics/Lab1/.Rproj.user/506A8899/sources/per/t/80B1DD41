@@ -1,0 +1,26 @@
+{
+    "id": "80B1DD41",
+    "path": "~/Data Analytics/Lab1/lab1_data.R",
+    "project_path": "lab1_data.R",
+    "type": "r_source",
+    "hash": "2102159477",
+    "contents": "",
+    "dirty": false,
+    "created": 1694805035867.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "20,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1695408295,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1695408295196,
+    "read_only": false,
+    "read_only_alternatives": []
+}
